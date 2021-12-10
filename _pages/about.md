@@ -6,7 +6,7 @@ description: <a href="https://depts.washington.edu/gridlab1/">GRIDlab | Universi
 
 profile:
   align: right
-  image: curr_headshot.jpg
+  image: DSCF9996-2.jpg
   address: >
     <i>Hello! This is my face.</i>
 

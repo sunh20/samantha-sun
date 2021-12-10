@@ -1,8 +1,8 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Mood coherence
+description: Characterizing network coherence changes after limbic system stimulation
 img:
 importance: 3
-category: fun
+category: past
 ---
