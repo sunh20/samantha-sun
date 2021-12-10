@@ -1,8 +1,22 @@
 ---
-permalink: /about/
-title: "About"
+layout: about
+title: about
+permalink: /
+description: <a href="https://depts.washington.edu/gridlab1/">GRIDlab | University of Washington</a>
+
+profile:
+  align: right
+  image: curr_headshot.jpg
+  address: >
+    <i>Hello! This is my face.</i>
+
+news: true  # includes a list of news items
+selected_papers: true # includes a list of papers marked as "selected={true}"
+social: true  # includes social icons at the bottom of the page
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+Hello! I am a fourth-year Bioengineering PhD student at the University of Washington. My research involves computational neuroscience in the GRIDlab eager to solve hidden mysteries of the brain. If interested in learning more about my research, please check out the "Projects" section.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+One of the things I hope to accomplish in my career is to improve trust and communication in science. I'm a firm believer that science should be fun and accessible for everyone. Communicating science in both an informative and engaging way is non-optional in order to rebuild trust and equip the public with critical thinking skills needed for science, policy, and beyond. 
+
+In my free time, I'm a [photographer](https://samanthasun.myportfolio.com/) and avid hiker- my 2021 goal is to hike 100 miles. I am a coffee addict, I have a cat named Anya, my COVID-19 quarantine hobby of choice was raising houseplants, and I'm [BTS ARMY](https://www.usbtsarmy.com/). 
