@@ -1,9 +1,11 @@
 ---
-layout: page
+layout: resume
 permalink: /resume/
 title: resume/cv
 description: 
 nav: true
+redirect_to:
+  - /Sun_Resume_2021_11.pdf
 ---
 
 <li class="inline-block">
