@@ -8,7 +8,7 @@ profile:
   align: right
   image: DSCF9996-2.jpg
   address: >
-    <i>Hello! This is my face.</i>
+    <i></i>
 
 news: true  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
