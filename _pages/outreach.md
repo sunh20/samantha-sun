@@ -1,11 +1,10 @@
 ---
 layout: page
 permalink: /outreach/
-title: science outreach
+title: outreach
 description: educating and exciting others about science and the brain
-nav: false
+nav: true
 ---
-
 ## Brain Awareness Week 2022 | Speakers Bureau
 Member in the [UW Speakers Bureau](https://faculty.washington.edu/chudler/bawspeakers.html), an online catalog of speakers put together by Dr. Eric Chudler, where teachers can visit and request speakers to present in their classroom during Brain Awareness Week. I visited a classroom in the UW Robinson Center and gave a 50-minute interactive presentation that introduced neurotechnology to 4-6th graders.  
 *March 2022*
