@@ -2,7 +2,7 @@
 layout: page
 title: PredStim - SfN
 description: Visualizing electrical stimulation-induced neural dynamics
-img: assets/img/predstim.png
+img: assets/img/predstim_sfn.png
 importance: 1
 category: current
 ---

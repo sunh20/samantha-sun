@@ -2,7 +2,7 @@
 layout: page
 title: PredStim - SMC
 description: Predicting responses to varying electrical stimulation
-img: assets/img/predstim.png
+img: assets/img/predstim_crop.png
 importance: 1
 category: current
 ---
