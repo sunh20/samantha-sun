@@ -6,7 +6,7 @@ description: educating and exciting others about science and the brain
 nav: true
 ---
 ## Brain Awareness Week 2023
-This year was my second year of being a member of the [UW Speakers Bureau](https://faculty.washington.edu/chudler/bawspeakers.html), and this year I went to a local Seattle 4th grade classroom, where we learned about the components of a neuron and how neurons communicate. We made pipe-cleaner neurons and connected them to make our classroom "network" of neurons :)  
+This year was my second year of being a member of the [UW Speakers Bureau](https://faculty.washington.edu/chudler/bawspeakers.html), and I went to teach at a local Seattle 4th grade classroom, where we learned about neurons, the parts of a neuron, and how neurons communicate. We made pipe-cleaner neurons and connected them to make our classroom "network" of neurons :)  
 *March 2023*
 
 <div class="row">
