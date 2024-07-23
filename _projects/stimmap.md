@@ -1,39 +1,11 @@
 ---
 layout: page
-title: PredStim - SfN
-description: Visualizing electrical stimulation-induced neural dynamics
-img: assets/img/predstim_sfn.png
+title: Stimulation Mapping
+description: Building stimulation response maps of effective connectivity
+img: assets/img/predstim_crop.png
 importance: 1
 category: current
 ---
+Under construction
 
-This page was prepared for the SfN 2022 conference, for the poster: "Comparison of human local field potential dynamics during different electrical stimulation conditions." 
-
-## Subject 2
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <video height="400" muted loop controls>
-            <source src="/assets/video/S2_1.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <video height="400" muted loop controls>
-            <source src="/assets/video/S2_2.mp4" type="video/mp4">
-        </video>
-    </div>
-</div>
-
-## Subject 4
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        <video height="400" muted loop controls>
-            <source src="/assets/video/S4_2.mp4" type="video/mp4">
-        </video>
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        <video height="400" muted loop controls>
-            <source src="/assets/video/S4_3.mp4" type="video/mp4">
-        </video>
-    </div>
-</div>
+<!-- <iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Fproto%2FDeMuNebkX6ayCgtU0hZKL3%2Fmisc.%3Ft%3DIDvv5OjEdTey2uVo-1%26node-id%3D118-240%26starting-point-node-id%3D118%253A240%26show-proto-sidebar%3D1" allowfullscreen></iframe> -->
