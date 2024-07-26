@@ -4,7 +4,7 @@ title: projects
 permalink: /projects/
 description: Things I've been working on
 nav: true
-display_categories: [current]
+display_categories: [current, past]
 horizontal: false
 ---
 
